@@ -1,6 +1,8 @@
 .activities-icon {
-  -st-icon-style: symbolic;
-  icon-size: 16px; }
+-st-icon-style: symbolic;
+background-image:url("dunp.png");
+width:26px; height:24px;
+icon-size: 22px; background-size: contain;}
   
 .activities-layout {
   spacing: 6px; }
